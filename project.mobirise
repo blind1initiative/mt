@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7,
+    "uniqCompNum": 43,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -31,7 +31,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Margieta Tandoc | E-Portfolio | Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -42,13 +42,47 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-f",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "MARGIETA TANDOC",
+          "text": "Hello everyone! Welcome to my E-portfolio website. My passion is to make a difference in educating and guiding others to promote quality and safety in the healthcare system.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">VIEW ABOUT ME</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">VIEW RESUME</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "header2",
           "_anchor": "header2-0",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "42",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1275.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1329.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -56,7 +90,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -89,9 +123,43 @@
               "size": 250
             }
           },
-          "title": "MARGIETA TANDOC",
-          "text": "<b>Margieta Tandoc R.N., B.S.N.</b><br>IRF/PAI COORDINATOR<br>Penn Institute for Rehabilitation Medicine<br>Good Shepherd Penn Partners&nbsp;<br>1800 Lombard St.<br>Philadelphia, PA 19146<br><br><b>E-mail:</b> margieta.tandoc@uphs.upenn.edu<br><b>Office Phone</b>: 215-893-2576",
+          "title": "ABOUT ME",
+          "text": "<b>Margieta Tandoc R.N., B.S.N.<br>IRF/PAI COORDINATOR</b><br><br><b><i>E-mail</i></b>: margieta.tandoc@uphs.upenn.edu<br><b><i>Office Phone:</i></b> 215-893-2576<br><br>I was born in the Philippines, where I had my primary and secondary education with my parent’s guidance, motivation, and emphasis that education is a valuable wealth. I started my nursing education at the University of Pangasinan, Philippines, and graduated with a Bachelor of Science in Nursing. I expanded my nursing experience, knowledge, and skills by working in Saudi Arabia, Kuwait, and finally, the United States of America.<br><br>In working with different healthcare systems and diverse population in various countries, I have learned that I can contribute further in other fields of nursing. There are emerging changes in the process of teaching and learning which could improve and produce better outcomes in healthcare.<br><br>I found out that I could do more by becoming an instrument for new graduates’ and young nurses’ nursing education. To achieve this, I am pursuing my Masters in Education with a specialization in Nursing Education.<br><br>Today, as an Inpatient Rehabilitation Facility-Payment Assessment Instrument (IRF-PAI) Coordinator, I coordinate with the interdisciplinary teams in achieving quality and safety of patient care through proper documentation and provision of data required by the Centers of Medicare and Medicaid Services (CMS). I am currently working with a team of quality and patient risk management. <br><br>I am looking forward to contributing better health outcomes by working collaboratively with the team, and continue assisting with documentation training of nurses, therapists, and other staff.&nbsp;This e-portfolio could serve as a guideline on how employers could find me in the field of nursing education through displaying my theoretical basis for nursing practice, statement of professional goals, and resume.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-6\" data-toolbar=\"-mbrBtnMove\">&nbsp;Click to view Resume<br></a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Statement of Professional Goals",
+          "meta": "Short and Long Term"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>At present, my <b><i>short-term goals</i></b> are revolving around my current position as an IRF-PAI Coordinator and a team member in the quality and patient risk management, by giving me an opportunity to practice my skills in maintaining quality and safety of patients through proper documentation and identifying the quality indicators and effective measurement of quality outcomes from the data collected from the interdisciplinary staff. In addition, the Functional Independence Monitoring (FIM) training of nurses and therapists is another task that I do in my current position. These tasks may lead to the development of my short-term goals to continue maintaining quality, and safety until time has come to achieve my long-term goals in nursing education. .</p>",
+          "text2": "<p>My <b><i>long-term goals</i></b> may include effective teaching in a healthcare setting or online setting, with emphasis on assisting with creative distance based learning courses. My background in working from multiple countries, and my various health care setting orientations may support another goal in teaching students about transcultural healthcare or engage with any curriculum that could help students learn diverse cultural healthcare. In addition, my long-term goal is to teach simulation courses in a classroom or online. Along with these goals may include the maintenance of quality and safety in any tasks that I need to achieve in becoming a nursing educator.</p><p><br></p>"
         },
         {
           "_inherit": "menu",
@@ -112,13 +180,15 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -150,14 +220,18 @@
           "_anchor": "ext_menu-1",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "0.65",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -178,28 +252,199 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Margieta Tandoc E-Portfolio</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-5\">RESUME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Margieta Tandoc&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-l\">STATEMENT OF PROFESSIONAL GOALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"theoreticalbasis.html\">THEORETICAL BASIS FOR NURSING PRACTICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"resume.html\">RESUME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coverletter.html\">COVER LETTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programoutcomes.html\">MSN NURSING EDUCATION PROGRAM OUTCOMES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-5",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "CONTACT",
+          "text": "<p><b>Margieta Tandoc R.N., B.S.N.</b><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">IRF/PAI COORDINATOR<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Penn Institute for Rehabilitation Medicine<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Good Shepherd Penn Partners&nbsp;<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">1800 Lombard St.<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Philadelphia, PA 19146<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br><b><i>E-mail: </i></b>margieta.tandoc@uphs.upenn.edu<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><i>Office Phone:</i></b> 215-893-2576.</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "resume.html": {
+      "settings": {
+        "title": "Margieta Tandoc | E-Portfolio | Resume",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.65rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.704rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.65",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "opened-folder",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Margieta Tandoc&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-l\">STATEMENT OF PROFESSIONAL GOALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"theoreticalbasis.html\">THEORETICAL BASIS FOR NURSING PRACTICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"resume.html\">RESUME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coverletter.html\">COVER LETTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programoutcomes.html\">MSN NURSING EDUCATION PROGRAM OUTCOMES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "RESUME",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-b",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
-          "title": "RESUME",
-          "meta": ""
+          "text": "<h3><i><b>MARGIETA TANDOC<br></b></i><span style=\"font-size: 1.07rem; font-weight: 300; font-family: Raleway, sans-serif; line-height: 1.5;\">138 N Maple Street&nbsp;<br></span><span style=\"font-size: 1.07rem; font-weight: 300; font-family: Raleway, sans-serif; line-height: 1.5;\">Woodbury, NJ 08096<br>(256)-676-7062</span></h3>"
         },
         {
           "_tags": [
@@ -209,15 +454,575 @@
           "_styles": {
             "P": {
               "text-align": "left"
+            },
+            "UL": {
+              "text-align": "left"
             }
           },
-          "_anchor": "content1-6",
+          "_anchor": "content1-c",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>QUALIFICATIONS PROFILE</b></p><ul><li>Dedicated and patient focused Registered Nurse with proven strengths in acute&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">patient care, staff development and family advocacy.</span></li><li>Exceptional capacity to multitask; manage numerous, often competing with ease&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">while fostering the provision of superior patient care.</span></li><li>Administrative and referral experience including admissions, assessment, treatment,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">referral and education for a wide range of patients.</span></li><li>Widely recognized as an excellent care provider and patient advocate.</li><li>Demonstrated ability to lead and motivate outstanding healthcare teams that&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">provide top quality patient care.</span></li><li>Outstanding interpersonal and communication skills, superior accuracy in patient&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">history, charting and other documentations.</span></li></ul><p></p><p><br></p><p><b>UNIVERSITY OF PENNSYLVANIA HEALTH SYSTEM (GOOD SHEPHERD PENN PARTNERS PENN INSTITUTE OF REHABILITATION MEDICINE)</b></p><p><i>Philadelphia, PA</i></p><p><i>12/2008 - present</i></p><p><i><br></i></p><p><b><i>Clinical Nurse (12/2008 – 12/2011)</i></b></p><ul><li>Responsible for providing quality rehabilitation care to patients following a s<span style=\"font-size: 1.07rem; line-height: 1.5;\">troke, Traumatic Brain Injury, Spinal Cord Injury, Amputation and Multi-</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">trauma injury.<br></span></li></ul><p><b><i>Inpatient Rehabilitation Facility – Patient Assessment Instrument/ IRF-PAI</i></b><b style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Coordinator (12/2011 – present)</i></b></p><ul><li>Responsible for the collecting and recording of Functional Independence</li><li>Measure (FIM), 18 –item, multidisciplinary tool, from all disciplines on the<span style=\"font-size: 1.07rem; line-height: 1.5;\">Patient Assessment Instrument (PAI) for admission and discharge.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Responsible&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">in keeping the updates on any Centers for Medicaid and Medicare Services</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">(CMS) changes affecting FIM and PAI.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"> Assists input of data into the data base.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">In-services staff regarding PAI updates and works with all the healthcare&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">disciplines to ensure appropriate documentation is completed to support FIM&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">scores. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Coordinates and provides FIM training for PIRM staff. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Assists PPS&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Coordinator.</span></li></ul><p><br></p><p><b>COOPER UNIVERSITY HOSPITAL</b></p><p><i>Camden, NJ</i></p><p><i>01/2007 – 04/2011</i></p><p><b><i>Staff Nurse – Intermediate Care Unit (INCU)</i></b></p><ul><li>Responsible for providing quality care to patients with variable medical, surgical<span style=\"font-size: 1.07rem; line-height: 1.5;\">with multiple wound care, trauma, neurology, cardiac and respiratory patients&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">on telemetry monitoring and mechanical ventilators.</span></li></ul><p><b><i>Staff Nurse – Supplemental Staff – Med. Surg., P.C.U./Telemetry/Cardiac,</i></b></p><p><b><i>Trauma/Stroke Unit (</i></b><i style=\"font-size: 1.07rem; line-height: 1.5;\"><b>04/2005 – 01/2007)</b></i></p><ul><li>Responsible for providing care to patients with variable medical, surgical, and&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">neurological, and multiple trauma. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Responsible to accomplish duties where&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">assigned.</span></li></ul><p><br></p><p><b>MI CASA ES SU CASA ADULT DAY CARE CENTER</b></p><p><i> </i></p><p><i>Paterson, NJ</i></p><p><i>03/2002 – 02/2003</i></p><p><b><i>Director of Nursing</i></b></p><ul><li>Responsible for the direction and provision of quality nursing services provided&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">to the patients in the program.</span></li><li>Establish and maintain contact with patients’ physician, design and recommend&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">emergency plans and procedures, and provides supervision to licensed nursing&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">personnel and care assistants.</span></li><li>Provide directly, or through other licensed nursing personnel, care of clients, to&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">restore, to maintain and promote health and prevent infection, accident or&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">injury with proper documentations.</span></li><li>Develops nursing policies and procedures in accordance with the State Board of<span style=\"font-size: 1.07rem; line-height: 1.5;\">Nursing Regulations and makes sure that licensed staffs are following them.</span></li></ul><p><br></p><p><b>UNIVERSITY OF MEDICINE AND DENTISTRY (UMDNJ)</b>&nbsp;</p><p><i>Newark, NJ </i></p><p><i>07/2002 – 07/2003</i></p><p><b><i>Staff Nurse - Surgical Trauma Intensive Care Unit</i></b></p><ul><li>Responsible for providing intensive care to patients with acute illness, including&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">massive trauma, neurological, liver transplants, acute respiratory syndromes,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">orthopedic and burn cases – with cardiac monitors and mechanical ventilators</span></li><li>Perform CVVHD to selected renal patients.</li></ul><p><br></p><p><b>NURSING NETWORK</b></p><p><i>Clifton, NJ</i></p><p><i>07/2003 – 04/2005</i></p><p><b><i>Staff Nurse – Long Term and Sub-acute</i></b></p><ul><li>Delivers a complete range of services and expertise to long term geriatric&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">patients with variable medical and surgical conditions.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Follows up departmental&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">referrals and consultations for acute and chronically ill parients.</span></li></ul><p><b><br></b></p><p><b>GENESIS ELDERCARE LEBANON CENTER </b></p><p><i>Lebanon, NH</i></p><p><i>06/2003 – 07/2004</i></p><ul><li>Delivers a complete range of services and expertise to elderly patients,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">administers medications and make referrals with the physician. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Provides direct&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">care to elderly patients with medical , psychiatric, and surgical conditions and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">when needed involve the family to achieve total care of the client.</span></li></ul><p><br></p><p><b>KUWAIT OIL COMPANY AHMADI HOSPITAL</b></p><p><i>Ahmadi, Kuwait</i></p><p><b><i>Staff Nurse – Ward 5 (Medical-Surgical, Gynecology Unit) (11/1997 – 04/2000)</i></b></p><p><b><i>Staff Nurse – Emergency Room (04/2000 – 04/2001)</i></b></p><ul><li>Responsible in carrying out standard nursing procedures to medical and&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">surgical floor, gynecology and in the emergency room whenever assigned.</span></li></ul><p><br></p><p><b>PAGASINAN MEDICAL CENTER, INC</b></p><p><i>Pangasinan, Philippines&nbsp;</i></p><p><i>01/1994 – 10/1997</i></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Responsible in doing basic nursing procedures: assist during physician’s rounds&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">and carry out orders. Administers medications and provide&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">patient care to patients with pre and post surgical cases and medical cases.</span></li></ul><p><br></p><p><b>ARMED FORCES HOSPITAL</b></p><p><i>Southern Region, Khamis Mushayt, Kingdom of Saudi Arabia</i></p><p><b>Senior Staff Nurse - Senior Officers/VIP Clinic (<span style=\"font-size: 1.07rem; line-height: 1.5;\">02/1994 -12/1994)</span></b></p><ul><li>Responsible for providing quality care to Senior officers/ V.I.P. Military officials&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">and their family members for their medical, surgical and general health&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">maintenance. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Do burn dressings and other minor dressings, apply bandages and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">splints, do eye and ear irrigations as required. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Administers oral, injectable and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">intravenous medications. Do insertion of I.V. and draws blood specimen.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"> Do&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">blood sugar monitoring, vital signs, E.C.G. and assist physician with minor&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">surgical procedures in the clinic.</span></li></ul><p><br></p><p><b>PANGASINAN MEDICAL CENTER INC</b></p><p><i>Pangasinan, Philippines</i></p><p><i> 03/1990 – 12/1991</i></p><ul><li>Responsible for providing total nursing care of patients with variable medical&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">and surgical conditions in the ward. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Carries out physician’s orders, administers&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">medications and teach patient and family members with pre and post surgical&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">procedures. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Do the nursing duties as assigned.</span></li></ul><p><br></p><p><b>QUALIFYING EXAMINATIONS TAKEN</b></p><ul><li>Government Nurses Board Licensure Examination (Manila, Philippines | June, 1990)</li><li>Commission on Graduates and Foreign Schools Qualifying Examination (CGFNS) (Manila, Philippines | August 9, 1995)</li><li>NCLEX-RN Examination (New Hampshire, US | November 28, 2001</li></ul><p><br></p><p><b>CERTIFICATIONS AND PROFICIENCIES</b></p><ul><li>Certifications</li><li>Surgical Trauma/ ICU Certificate</li><li>Intravenous Therapy</li><li>Basic Life Support</li><li>Bachelor of Science in Nursing (B.S.N.)</li><li>ARN Continuing Nursing Education Certificate</li></ul><p><br></p><p><b>Proficiencies and Experiences</b></p><ul><li>Medical/Surgical</li><li>I.C.U.</li><li>Clinics</li><li>Administration</li><li>Progressive Care Unit</li><li>E.R.</li></ul><p><br></p>"
+          "text": "<p><b>QUALIFICATIONS PROFILE</b></p><ul><li>Dedicated and patient focused Registered Nurse with proven strengths in acute&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">patient care, staff development and family advocacy.</span></li><li>Exceptional capacity to multitask; manage numerous, often competing with ease&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">while fostering the provision of superior patient care.</span></li><li>Administrative and referral experience including admissions, assessment, treatment,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">referral and education for a wide range of patients.</span></li><li>Widely recognized as an excellent care provider and patient advocate.</li><li>Demonstrated ability to lead and motivate outstanding healthcare teams that&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">provide top quality patient care.</span></li><li>Outstanding interpersonal and communication skills, superior accuracy in patient&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">history, charting and other documentations.</span></li></ul><p></p><p><br></p><p><b>UNIVERSITY OF PENNSYLVANIA HEALTH SYSTEM (GOOD SHEPHERD PENN PARTNERS PENN INSTITUTE OF REHABILITATION MEDICINE)</b></p><p><i>Philadelphia, PAs</i></p><p><i>12/2008 - present</i></p><p><i><br></i></p><p><b><i>Clinical Nurse (12/2008 – 12/2011)</i></b></p><ul><li>Responsible for providing quality rehabilitation care to patients following a s<span style=\"font-size: 1.07rem; line-height: 1.5;\">troke, Traumatic Brain Injury, Spinal Cord Injury, Amputation and Multi-</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">trauma injury.<br></span></li></ul><p><b><i>Inpatient Rehabilitation Facility – Patient Assessment Instrument/ IRF-PAI</i></b><b style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Coordinator (12/2011 – present)</i></b></p><ul><li>Responsible for the collecting and recording of Functional Independence.</li><li>Measure (FIM), 18 –item, multidisciplinary tool, from all disciplines on the&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Patient Assessment Instrument (PAI) for admission and discharge.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Responsible&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">in keeping the updates on any Centers for Medicaid and Medicare Services</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">(CMS) changes affecting FIM and PAI.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"> Assists input of data into the data base.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">In-services staff regarding PAI updates and works with all the healthcare&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">disciplines to ensure appropriate documentation is completed to support FIM&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">scores. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Coordinates and provides FIM training for PIRM staff. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Assists PPS&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Coordinator.</span></li></ul><p><br></p><p><b>COOPER UNIVERSITY HOSPITAL</b></p><p><i>Camden, NJ</i></p><p><i>01/2007 – 04/2011</i></p><p><b><i>Staff Nurse – Intermediate Care Unit (INCU)</i></b></p><ul><li>Responsible for providing quality care to patients with variable medical, surgical&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">with multiple wound care, trauma, neurology, cardiac and respiratory patients&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">on telemetry monitoring and mechanical ventilators.</span></li></ul><p><b><i>Staff Nurse – Supplemental Staff – Med. Surg., P.C.U./Telemetry/Cardiac,</i></b></p><p><b><i>Trauma/Stroke Unit (</i></b><i style=\"font-size: 1.07rem; line-height: 1.5;\"><b>04/2005 – 01/2007)</b></i></p><ul><li>Responsible for providing care to patients with variable medical, surgical, and&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">neurological, and multiple trauma. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Responsible to accomplish duties where&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">assigned.</span></li></ul><p><br></p><p><b>MI CASA ES SU CASA ADULT DAY CARE CENTER</b></p><p><i> </i></p><p><i>Paterson, NJ</i></p><p><i>03/2002 – 02/2003</i></p><p><b><i>Director of Nursing</i></b></p><ul><li>Responsible for the direction and provision of quality nursing services provided&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">to the patients in the program.</span></li><li>Establish and maintain contact with patients’ physician, design and recommend&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">emergency plans and procedures, and provides supervision to licensed nursing&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">personnel and care assistants.</span></li><li>Provide directly, or through other licensed nursing personnel, care of clients, to&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">restore, to maintain and promote health and prevent infection, accident or&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">injury with proper documentations.</span></li><li>Develops nursing policies and procedures in accordance with the State Board of&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Nursing Regulations and makes sure that licensed staffs are following them.</span></li></ul><p><br></p><p><b>UNIVERSITY OF MEDICINE AND DENTISTRY (UMDNJ)</b>&nbsp;</p><p><i>Newark, NJ </i></p><p><i>07/2002 – 07/2003</i></p><p><b><i>Staff Nurse - Surgical Trauma Intensive Care Unit</i></b></p><ul><li>Responsible for providing intensive care to patients with acute illness, including&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">massive trauma, neurological, liver transplants, acute respiratory syndromes,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">orthopedic and burn cases – with cardiac monitors and mechanical ventilators.</span></li><li>Perform CVVHD to selected renal patients.</li></ul><p><br></p><p><b>NURSING NETWORK</b></p><p><i>Clifton, NJ</i></p><p><i>07/2003 – 04/2005</i></p><p><b><i>Staff Nurse – Long Term and Sub-acute</i></b></p><ul><li>Delivers a complete range of services and expertise to long term geriatric&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">patients with variable medical and surgical conditions.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Follows up departmental&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">referrals and consultations for acute and chronically ill parients.</span></li></ul><p><b><br></b></p><p><b>GENESIS ELDERCARE LEBANON CENTER </b></p><p><i>Lebanon, NH</i></p><p><i>06/2003 – 07/2004</i></p><ul><li>Delivers a complete range of services and expertise to elderly patients,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">administers medications and make referrals with the physician. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Provides direct&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">care to elderly patients with medical , psychiatric, and surgical conditions and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">when needed involve the family to achieve total care of the client.</span></li></ul><p><br></p><p><b>KUWAIT OIL COMPANY AHMADI HOSPITAL</b></p><p><i>Ahmadi, Kuwait</i></p><p><b><i>Staff Nurse – Ward 5 (Medical-Surgical, Gynecology Unit) (11/1997 – 04/2000)</i></b></p><p><b><i>Staff Nurse – Emergency Room (04/2000 – 04/2001)</i></b></p><ul><li>Responsible in carrying out standard nursing procedures to medical and&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">surgical floor, gynecology and in the emergency room whenever assigned.</span></li></ul><p><br></p><p><b>PAGASINAN MEDICAL CENTER, INC</b></p><p><i>Pangasinan, Philippines&nbsp;</i></p><p><i>01/1994 – 10/1997</i></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Responsible in doing basic nursing procedures: assist during physician’s rounds&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">and carry out orders. Administers medications and provide&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">patient care to patients with pre and post surgical cases and medical cases.</span></li></ul><p><br></p><p><b>ARMED FORCES HOSPITAL</b></p><p><i>Southern Region, Khamis Mushayt, Kingdom of Saudi Arabia</i></p><p><b>Senior Staff Nurse - Senior Officers/VIP Clinic (<span style=\"font-size: 1.07rem; line-height: 1.5;\">02/1994 -12/1994)</span></b></p><ul><li>Responsible for providing quality care to Senior officers/ V.I.P. Military officials&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">and their family members for their medical, surgical and general health&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">maintenance. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Do burn dressings and other minor dressings, apply bandages and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">splints, do eye and ear irrigations as required. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Administers oral, injectable and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">intravenous medications. Do insertion of I.V. and draws blood specimen.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"> Do&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">blood sugar monitoring, vital signs, E.C.G. and assist physician with minor&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">surgical procedures in the clinic.</span></li></ul><p><br></p><p><b>PANGASINAN MEDICAL CENTER INC</b></p><p><i>Pangasinan, Philippines</i></p><p><i> 03/1990 – 12/1991</i></p><ul><li>Responsible for providing total nursing care of patients with variable medical&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">and surgical conditions in the ward. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Carries out physician’s orders, administers&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">medications and teach patient and family members with pre and post surgical&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">procedures. </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Do the nursing duties as assigned.</span></li></ul><p><br></p><p><b>QUALIFYING EXAMINATIONS TAKEN</b></p><ul><li>Government Nurses Board Licensure Examination (Manila, Philippines | June, 1990)</li><li>Commission on Graduates and Foreign Schools Qualifying Examination (CGFNS) (Manila, Philippines | August 9, 1995)</li><li>NCLEX-RN Examination (New Hampshire, US | November 28, 2001</li></ul><p><br></p><p><b>CERTIFICATIONS AND PROFICIENCIES</b></p><ul><li>Certifications</li><li>Surgical Trauma/ ICU Certificate</li><li>Intravenous Therapy</li><li>Basic Life Support</li><li>Bachelor of Science in Nursing (B.S.N.)</li><li>ARN Continuing Nursing Education Certificate</li></ul><p><br></p><p><b>Proficiencies and Experiences</b></p><ul><li>Medical/Surgical</li><li>I.C.U.</li><li>Clinics</li><li>Administration</li><li>Progressive Care Unit</li><li>E.R.</li></ul><p><br></p>"
+        }
+      ]
+    },
+    "coverletter.html": {
+      "settings": {
+        "title": "Margieta Tandoc | E-Portfolio | Cover Letter",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.65rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.704rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-t",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.65",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "opened-folder",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Margieta Tandoc&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-l\">STATEMENT OF PROFESSIONAL GOALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"theoreticalbasis.html\">THEORETICAL BASIS FOR NURSING PRACTICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"resume.html\">RESUME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coverletter.html\">COVER LETTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programoutcomes.html\">MSN NURSING EDUCATION PROGRAM OUTCOMES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "COVER LETTER",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-15",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-16",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-14",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><span style=\"font-style: normal;\">Margieta Tandoc<br><span style=\"font-size: 1.09rem; line-height: 1.5;\">138 N Maple St.<br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Woodbury, N.J. 08096</span></span></p><p><span style=\"font-style: normal;\"><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">To whom it may concern:</span></span></p><p><span style=\"font-style: normal;\"><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">To view my resume, educational history, and other information, you may go to<a href=\"http:// margietatandoc.tk\"> margietatandoc.tk</a>. I would like to submit this e-portfolio website to be considered in a teaching position.&nbsp;<br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br>I have been a Registered Nurse since 1990, with various experiences in acute care nursing, preventive nursing, critical care nursing, and quality and patient risk management. I assist in training health care professionals including nurses, nursing aid, occupational and physical therapists in proper documentation and collection of data required by the Centers for Medicare and Medicaid Services (CMS), and utilizing database software such as the Uniform Data System for Medical Rehabilitation (UDSMR) and LTRAX or LTACH outcome systems to complete the data set for CMS quality reporting, electronic transmissions, and measurement of outcome reports.&nbsp;<br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br>Currently, I am pursuing my Master’s Degree in Nursing and will graduate by 2018. If given a chance, I would like to be a nurse educator in on-line setting or in a classroom setting.<br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br>Thank you in advance for considering me for a position. I look forward to becoming a part of your team. You may reach me at any time at (256)-676-7062.<br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br>Sincerely,<br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Margieta Tandoc, RN, BSN&nbsp;</span></span></p></blockquote><blockquote><br></blockquote>"
+        }
+      ]
+    },
+    "programoutcomes.html": {
+      "settings": {
+        "title": "Margieta Tandoc | E-Portfolio | MSN Nursing Education Program Outcomes",
+        "meta_descr": "Web Site Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.65rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.704rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-x",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.65",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "opened-folder",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Margieta Tandoc&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-l\">STATEMENT OF PROFESSIONAL GOALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"theoreticalbasis.html\">THEORETICAL BASIS FOR NURSING PRACTICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"resume.html\">RESUME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coverletter.html\">COVER LETTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programoutcomes.html\">MSN NURSING EDUCATION PROGRAM OUTCOMES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "MSN NURSING EDUCATION PROGRAM OUTCOMES",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-11",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h3>Introduction</h3><p>At the end of this course, N-580 -Issues in Nursing Education, the eight core competencies were carefully learned. One of the papers that I have submitted has discussed the core competencies of the nurse educator. This has focused on the advance technology that a student may use in improving the viewing and gathering of data of individuals by using electronic portfolio, web site, and electronic or digitalized media. The course has motivated me to create a website to present my educational and personal history, goals, and aspirations in nursing education. The attitude that this course has brought out in me is the virtue of patience and determination. The challenges in completing the activities in this course have created a sense of fulfillment upon completion of each assignments.<br><br></p><p>The NLN scope of practice has facilitated my learning about the competencies which could be associated to my learning. One of these competencies is the competency 1 or facilitation of learning. This could be associated with my passion in supporting the diverse population of students or staff in facilitating learning. I could reflect my past nursing experiences and associate my current position as IRF/PAI coordinator in promoting team work and collaboration in the clinical and education practice of various disciplines in healthcare. The facilitation of learning through teaching Functional Independence Measures (FIM) to interdisciplinary teams could be a competency that has been achieved.</p><p>The second competency that could be associated to my current job is the competency six, due of the pursuit of continuous quality improvement through effective measurement of outcomes and quality reporting. Through applying the knowledge learned in this course, I may be able to develop more ways in maintaining continuous quality improvement through learning the traditional ways of our facility versus the evidence-based practice or the activities and care that are scientifically proven.<br><br></p><p>The third competency associated with my job is the competency 5 which revolves on the teamwork and collaboration in promoting common goals. This course has taught me the process of teamwork and collaboration with others. The participation in discussions has given me opportunity to learn more about others and work with them in discussing issues that could be affecting nursing education.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">I have attached my submitted work about the core competencies of the nurse educator to fully view the professional development paper.</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://drive.google.com/file/d/0B-J6VBYeJxCjT0xWaDRqeFAzYVU/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE TO VIEW PAPER IN APA FORMAT</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-12",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><span style=\"font-size: 1.09rem; font-style: normal; line-height: 1.5;\">Module 1: Core Competencies of the Nurse Educator</span><br></p><p><span style=\"font-size: 1.09rem; font-style: normal; line-height: 1.5;\">Margieta C. Tandoc</span></p><p><span style=\"font-size: 1.09rem; font-style: normal; line-height: 1.5;\">Aspen University</span></p><p><span style=\"font-size: 1.09rem; font-style: normal; line-height: 1.5;\">N-580: Issues in Nursing Education</span></p><p><span style=\"font-size: 1.09rem; font-style: normal; line-height: 1.5;\">Dr. Yvette Lowery</span></p><p><span style=\"font-size: 1.09rem; font-style: normal; line-height: 1.5;\">June, 2017</span></p><p><span style=\"font-size: 1.09rem; font-style: normal; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.09rem; font-style: normal; line-height: 1.5;\">Considering the eight nurse educator competencies, the venue that I have strengths is the competency 1 – facilitating learning. My passion in supporting the diverse population of students or staff in facilitating learning through teaching with set strategy that would fit the students’ needs, and outcomes; teaching strategies in providing evidence-based practices; enhancing reflective and critical thinking; improving work relationships with the students, co-workers, and personnel by showing interest and respect, and practice professionalism in nursing (National League for Nursing, 2012). Although I may have sufficient skills in oral and written method of communication, I may still need to improve my electronic communication method of teaching or electronic skills in delivering data. I would like to improve and initiate the e-portfolio experience so I could have an opportunity to review and find out the skills I have enhanced and to keep track on how I am doing.  If I could demonstrate effective communication skills, it may promote teamwork and collaboration in the clinical and educational practice of health professionals (World Health Organization, 2016).</span><br></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\">&nbsp;I may have given emphasis on competency 1 for a nurse educator. However, there are more competencies which are vital in becoming a nurse educator. These competencies may include competency 2 -facilitating learner development and socialization; competency 3- using assessment and evaluation strategies; competency 4 - participating in curriculum design and evaluation of program outcomes; competency 5 - functioning as a change agent and leader; competency 6 - pursuing continuous quality improvement; competency 7 - engaging in scholarship; and competency 8 -functioning within the educational environment (Billings and Halstead, 2012). I am interested in improving my knowledge and later advise or counsel students by observing the sense of caring, sense of humor, and if given an opportunity to work with these competencies. I may improve my skills in achieving these vital competencies to accomplish the required scope of practice for nurse educators.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\">My job as an Inpatient Rehabilitation Facility- Patient Assessment Instrument  Coordinator (IRF-PAI Coordinator) at my workplace has given me an opportunity to work on continuous quality improvement by working together with Payment Prospective Coordinator, Quality Assurance Coordinator, and the Quality Assurance Manager as a team in providing quality collection of data, using the Uniform Data System for Medical Rehabilitation (UDSMR) as the biggest database in providing data on functional status of patients based on the Functional Independence Measure (FIM) Instrument that includes 18 categories covering six areas of level of functioning (Graham, et al., 2014). The direct use of FIM scores based on the patient’s level of function and burden of care could give data on how many days should the patient stay in the facility and how the therapy and medical management affects the patient’s health progress and development in physical therapy. I work with the documentations provided by the interdisciplinary team including nurses, physical therapists, nursing aids, wound care team, dieticians, occupational therapists, physical therapists, and the physicians. In addition, I do similar functions in maintaining the quality management on the Long Term Acute Care Unit by utilizing the LTRAX system which is a combined data collection tool and outcomes engine for the long-term acute hospitals with the built-in support for the Centers for Medicare and Medicaid Services (CMS) with patient satisfaction surveys and collection of quality indicators of patients (LTRAX, 2017). Continuous quality improvement as part of my job is under the competency 6. In addition, competency 5 – could be another venue that my work revolves as the promotion of teamwork and collaboration with other disciplines in the hospital is being observed to enhance partnership among health professionals’ education and clinical practice (WHO, 2016).&nbsp;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\">Nurses, nursing aids, physical therapists, recreational therapists, and occupational therapists are being tested every two years for the accreditation of the hospital as required by the CMS. I work with the PPS Coordinator in promoting education through providing once or twice a month FIM training, with provision of FIM tips for the staff that are being included during team huddles. This activity may be categorized under the competency 2, 3, and 4. I may need more skills in the competency 8, which is the management, leadership, and advocacy (WHO, 2016). As there are leadership programs in our hospital, our quality assurance manager serves as the team leader and reports directly to the Director of Nursing. However, regardless of the management task, I could lead the interdisciplinary team in addressing health-care and educational needs. I could also teach and support staff in the proper documentation and integration of proper entry of data.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\">In creating my e-portfolio account, I could review the guidelines and follow my instructor’s guidance. I will include the theoretical basis for nursing practice, statement of professional goals, resume or CV, cover letter, and program outcomes. Another challenge in achieving my goals is time constraints due to my full-job and tasks at home. However, I could overcome it by planning and organizing my tasks, prioritize my education, and enhance my knowledge and skills through self-reflection, critical thinking, and obtaining more learning materials from the text books and from other sources.&nbsp;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\">It takes patience and determination to accomplish the competencies that I’m planning to include in my e-portfolio. This course could give me an opportunity to understand more about the significance of creating an e-portfolio to enhance communication, develop and improve my profession, and contribute what employers may need in matching job positions as a nurse educator.</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H4": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "content1-13",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h4><b>References</b></h4><p>Billings, D. M. &amp; Halstead, J. A. (2012). <i>Teaching in Nursing: A guide for faculty (4th ed.)</i>. St.</p><p>&nbsp;Louis, MO: Elsevier Saunders.&nbsp;</p><p><br></p><p>LTRAX. (2017). LTRAX: Outcomes-focused intelligence to guide executive management and&nbsp;</p><p>&nbsp;improve patient care. Retrieved from www.ltrax.xom – www.ltrax.com</p><p><br></p><p>National League for Nursing, (2012). <i>The scope of practice for academic nurse educators</i>. New&nbsp;</p><p>&nbsp;York, NY: National League of Nursing.</p><p><br></p><p>World Health Organization. (2016). <i>Nurse educator competencies</i>. Geneva: Switzerland: WHO&nbsp;</p><p>&nbsp;Document Production Services.</p><p><br></p><p><br></p><p><br></p>"
+        }
+      ]
+    },
+    "theoreticalbasis.html": {
+      "settings": {
+        "title": "Margieta Tandoc | E-Portfolio | Theoretical Basis for Nursing Practice",
+        "meta_descr": "Web Site Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.65rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.704rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-m",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.65",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "opened-folder",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Margieta Tandoc&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-l\">STATEMENT OF PROFESSIONAL GOALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"theoreticalbasis.html\">THEORETICAL BASIS FOR NURSING PRACTICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"resume.html\">RESUME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coverletter.html\">COVER LETTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programoutcomes.html\">MSN NURSING EDUCATION PROGRAM OUTCOMES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "THEORETICAL BASIS FOR NURSING PRACTICE",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><span style=\"font-style: normal;\">Educational theories may reflect unique perspectives with variations in assumptions, values, and beliefs about the process in teaching, and learning process. Nurse educators and students may come from different generations with variant life experiences and gaps in age. However, with numerous educational theories, a connection with the gaps and differences could lead to effective teaching and learning outcomes if suitable theories are chosen as guidance and framework for planning educational system in the classroom or in the clinical setting (Aliakbari, Parvin, Heidari, &amp; Haghani, 2015).</span></blockquote><blockquote><span style=\"font-style: normal;\">&nbsp;Numerous theories in education could be utilized in nursing education. As a student, the behaviorism was the earliest theory that I could associate on my learning. The process of positive reinforcements in my primary, secondary, and nursing education, has revolved in achieving good grades and rewards, in addition to praises from my parents and educators. The principle of behaviorism was integrated early in my system, by developing a response to the reinforcements that has conditioned my behavior and molded my learning capability. This could be associated with the theory of operant conditioning that Skinner has formed when individuals behave because of their past consequences (Utley, 2011). Schunk (2008) has discussed that to apply a negative or positive reinforcement in a situation, the stimuli should be close to the event to promote the process of conditioning, like a situation when a teacher should assess the outcome of the student’s learning by providing prompt feedback (as cited in Utley, 2011). This knowledge could later influence my future nurse educator practice. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></blockquote><blockquote><span style=\"font-style: normal;\">Cognitive learning theory is another theory that may have given impact in my education by accumulating and processing the perceived knowledge from my mentors. The processing of the information through “visual, auditory, or motor manipulation” (p.74), could either be kept in the short-term or long-term memory (Bastable, 2014). Simulation is another method used in my nursing education as a student that has contributed advantage in my learning.  Simulation could be associated with the adult learning theory, and with cognitive, social, and constructivist theory that could allow the students to avoid harming a patient through practicing skills and activities in the classroom and in the clinical trainings (Rutherford-Hemming, 2012). In this method, the social learning theory may have contributed in the combination of my orientation in behaviorism and cognitivism theories. Through simulation, my involvement in the construction of knowledge has enhanced.&nbsp;</span></blockquote><blockquote><span style=\"font-style: normal;\">&nbsp;The most impressive theory that has contributed to my learning, in my recent stage in nursing education, is the connectivism theory, which is considered as a modern theory to be the modern-day theory due to the involvement of digital way of learning (Utley, 2011). This theory has involved the use of the social media, networks, and internet, as a form of professional communication. In connectivism theory, fresh information is continuously acquired. Siemens (2008) has discussed that connectivism is different from other theories because of five reasons; learning could occur through interaction socially and technologically; learning could take place in diversified network and strong network ties; transfer of learning and connection could be learned through adaptive patterns; and correlation of this theory to behaviorism in learning task, cognitivism for thinking critically and reasonably, and constructivism for the interactive and social participation in the diverse sources of knowledge (as cited in Utley, 2011). The connectivism theory could be associated with the use of technology aside from the electronic medical records (EMR), and personal computer programs, in connecting, and collaborating globally (Schmitt, Sims-Giddens, &amp; Booth, R. G., 2012). The existence of social media in the classroom, and network sites, and the use of e-portfolio, twitter, and Wikipedia, power point presentations, videos, and distant online education, could enhance learning and skills in nursing education, teaching, and learning process (Schmitt, Sims-Giddens, &amp; Booth, 2012).&nbsp;</span></blockquote><blockquote><span style=\"font-style: normal;\">As a nurse educator, the use of theories that could fit the learning styles and adaptation of the student should be given into consideration. The integration of the principles of learning, and the scope of practice of an academic nurse educator should be combined with the preferred educational theory, to enhance effective teaching and learning process. The educational theories could guide the individualized learning preference of the student, and these theories could support the nurse educator’s teaching strategies.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H4": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "content1-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h4><b>References</b></h4><p>Aliakbari, F., Parvin, N., Heidari, M. &amp; Haghani, F. (2015). Learning theories application in&nbsp;</p><p>&nbsp;nursing education. <i>Journal of Education and Health Promotion</i>, 4(2), 1-15, doi:&nbsp;</p><p>&nbsp;10.4103/2277-9531.151867</p><p><br></p><p>Bastable, S. B. (2014). <i>Nurse as educator: Principles of teaching and learning for nursing</i></p><p><i>&nbsp;Practice (4th ed.)</i>. Burlington, MA: Jones &amp; Bartlett Learning.</p><p><br></p><p>Rutherford-Hemming, T. (2012). <i>Simulation methodology in nursing education and adult&nbsp;</i></p><p><i>&nbsp;learning theory</i>. Retrieved from http://www.sagepub.com/journalsPermission.nav.</p><p>Schmitt, T. L., Sims-Giddens, S. S., Booth, R. G. (2012). Social media use in nursing education.&nbsp;</p><p>&nbsp;Retrieved from http://www.medscape.com/viewarticle/780051_</p><p><br></p><p>Schunk, D. H. (2008). <i>Learning theories: An educational perspective (5th ed.)</i>. Englewood Cliffs,&nbsp;</p><p>&nbsp;NJ: Prentice-Hall.</p><p><br></p><p>Utley, R. (2011). <i>Theory and research for academic nurse educators: Application to practice</i>.&nbsp;</p><p>&nbsp;Sudbury, MA: Jones &amp; Bartlett Publishers.</p><p><br></p><p><br></p>"
         }
       ]
     }
